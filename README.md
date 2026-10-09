@@ -1,0 +1,2 @@
+# premium-cuts-001-heads-hearts-tails-cut-point-g
+You're losing money on every batch because you can't pinpoint exactly where heads end and hearts begin. The Heads Hearts Tails Cut Point Guide eliminates guesswork and turns your distillation into a precise, repeatable science.  This Notion template gives you a structured framework to identify and document your exact cut points across multiple runs
